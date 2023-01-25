@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "StockMarket",
+    "name": "StockMarket",
+    "description": "Customizable shop with stock market options!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Anhgelus Morhtuuzh", "The Last Crafter Of Us"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
